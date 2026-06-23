@@ -9,7 +9,7 @@ Go to GitHub.com, click New Repository, give it a name, check the box that says 
 
 terninal:
 cd.
-git clone paste-your-copied-https-link-here
+git clone pasgote-your-copied-https-link-here
 
 cd name-of-your-cloned-folder
 code . -r
@@ -21,3 +21,6 @@ git commit -m "Describe what features you built"
 git push
 
 this is the whole process uptil now
+
+## local development
+this is added when in other branch
